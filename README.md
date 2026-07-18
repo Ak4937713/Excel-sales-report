@@ -1,9 +1,9 @@
 # Excel-Sales-Report
-Atliq Hardware is a technology-driven company that specializes in manufacturing and selling a wide range of hardware products, including personal computers, printers, computer mouse devices, and other peripheral equipment. Their distribution strategy involves partnering with major retail chains such as Croma and Best Buy, as well as leading e-commerce platforms like Flipkart and Amazon, making their products accessible to a broad customer base.
-📊 Project Overview
+## Atliq Hardware is a technology-driven company that specializes in manufacturing and selling a wide range of hardware products, including personal computers, printers, computer mouse devices, and other peripheral equipment. Their distribution strategy involves partnering with major retail chains such as Croma and Best Buy, as well as leading e-commerce platforms like Flipkart and Amazon, making their products accessible to a broad customer base.
+## 📊 Project Overview
 This project is a data analysis conducted using a dataset from Atliq Hardware. The goal is to derive meaningful business insights by analyzing product-level performance, customer trends, and sales distribution across time and regions.
-🎯 Project Objective & Problem Statement
-Atliq Hardware, despite having a strong market presence and a wide product range, requires data-driven strategies to stay competitive in a dynamic industry. Understanding how each product category performs across regions, sales channels, and time periods is critical for informed decision-making. The objective of this project is to build an interactive Business Intelligence dashboard — the Sales and Finance Analytics Report — that delivers actionable insights to support strategic planning and performance optimization at Atliq Hardware. This project specifically addresses the following business challenges:
+## 🎯 Project Objective & Problem Statement
+### Atliq Hardware, despite having a strong market presence and a wide product range, requires data-driven strategies to stay competitive in a dynamic industry. Understanding how each product category performs across regions, sales channels, and time periods is critical for informed decision-making. The objective of this project is to build an interactive Business Intelligence dashboard — the Sales and Finance Analytics Report — that delivers actionable insights to support strategic planning and performance optimization at Atliq Hardware. This project specifically addresses the following business challenges:
 Identifying top-performing and underperforming product categories
 Analyzing sales trends across different time frames and geographical regions
 Understanding the impact of various sales channels on overall performance
@@ -40,4 +40,4 @@ Yearly Profit and Loss (P&L) Report: AtliQ achieved a 204% increase in growth be
 Quarterly Profit and Loss (P&L) Comparison: Substantial sales growth was achieved in 2021, while profit margins remained stable despite rising costs.
 Market-Specific Profit and Loss (P&L) Report: AtliQ achieved the highest total net sales in India, whereas the Netherlands, Japan, and New Zealand reported the highest gross margin percentages.
 Quarterly Gross Margin Percentage (GM%) by Sub_zones: The ANZ subzone showed dominance in gross margin percentage during the later years, whereas the SE region led in sales and ROA during the initial years.
-Explore the repository to get started, and feel free to contribute or provide feedback!
+### Explore the repository to get started, and feel free to contribute or provide feedback!
