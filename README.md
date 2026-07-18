@@ -18,11 +18,11 @@ By combining in-depth analysis and visual storytelling through Excel Reports, th
 ### Objectives
 
 1. Create a [Customer sales Performance report](https://github.com/Ak4937713/Excel-sales-report/blob/main/customer%20sales%20performance.pdf) from 2019 to 2021. 
-2. Create a report identifying the top 10 products with the highest sales growth from 2020 to 2021.
-3. Create a division-wise sales report comparing total revenue and year-over-year growth for 2020 and 2021.
-4. Create a report identifying the top 5 and bottom 5 products based on total quantity sold.
-5. Create a report listing the new products introduced by Atliq Hardware in 2021.
-6. Create a report identifying the top 5 countries by total sales revenue in 2021.
+2. Create a report identifying the [top 10 products](https://github.com/Ak4937713/Excel-sales-report/blob/main/top%2010%20products.pdf) with the highest sales growth from 2020 to 2021.
+3. Create a [division-wise sales report](https://github.com/Ak4937713/Excel-sales-report/blob/main/division%20report.pdf) comparing total revenue and year-over-year growth for 2020 and 2021.
+4. Create a report identifying the [top 5 and bottom 5](https://github.com/Ak4937713/Excel-sales-report/blob/main/top%205%20and%20bottom%205%20products.pdf) products based on total quantity sold.
+5. Create a report [listing the new products](https://github.com/Ak4937713/Excel-sales-report/blob/main/new%20products%202021.pdf) introduced by Atliq Hardware in 2021.
+6. Create a report identifying [the top 5 countries](https://github.com/Ak4937713/Excel-sales-report/blob/main/top%205%20countries.pdf) by total sales revenue in 2021.
    
    
 ### Insights
