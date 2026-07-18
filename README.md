@@ -37,19 +37,31 @@ By combining in-depth analysis and visual storytelling through Excel Reports, th
 
 # Finance Analytics:
 ### Objectives
-1. **Customer Net Sales Performance Report**: Overview of revenue generated from customers.
-2. **Market Performance vs. Sales Targets Comparison**: Analysis of sales efforts against goals and market conditions.
-3. **Yearly Profit and Loss (P&L) Report**: Financial performance breakdown for each fiscal year.
-4. **Quarterly Profit and Loss (P&L) Comparison**: Financial performance trends throughout the year.
-5. **Market-Specific Profit and Loss (P&L) Report**: Performance breakdown for each market.
-6. **Quarterly Gross Margin Percentage (GM%) by sub-zone**: Profitability view by geographic area.
-
+1. Develope a [market performance report](https://github.com/Ak4937713/Excel-sales-report/blob/main/market%20performance%20vs%20Target.pdf) to compare sales performance against targets and market conditions.
+2. Create a [Yearly Profit and Loss (P&L) report](https://github.com/Ak4937713/Excel-sales-report/blob/main/P%20%26%20L%20BY%20FISCAL%20YEAR.pdf) to evaluate financial performance across fiscal years.
+3. Compare [Quarterly Profit and Loss (P&L) Reports](https://github.com/Ak4937713/Excel-sales-report/blob/main/P%20%26%20L%20by%20fiscal%20quater.pdf) to analyze financial performance trends throughout the year.
+4. Generate a [market-specific Profit and Loss (P&L) report](https://github.com/Ak4937713/Excel-sales-report/blob/main/P%20%26%20L%20for%20Markets.pdf) to evaluate profitability across different markets.
+5. Develope a [Quarterly Gross Margin Percentage (GM%) by sub-zone report](https://github.com/Ak4937713/Excel-sales-report/blob/main/GM%20%25%20by%20Subzones.pdf) which shows Profitability view by geographic area.
+   
 ### insights
-1. **Customer Net Sales Performance Report**: AtliQ Hardware sale increased from 87.8 M in 2019 to 588 M in 2021.
-2. **Market Performance vs. Sales Targets Comparison**: Certain markets surpassed their sales targets, whereas others did not meet expectations, offering valuable insights for shaping future strategies.
-3. **Yearly Profit and Loss (P&L) Report**: AtliQ achieved a 204% increase in growth between 2019 and 2021, marking significant progress over the three-year span.
-4. **Quarterly Profit and Loss (P&L) Comparison**: Substantial sales growth was achieved in 2021, while profit margins remained stable despite rising costs.
-5. **Market-Specific Profit and Loss (P&L) Report**: AtliQ achieved the highest total net sales in India, whereas the Netherlands, Japan, and New Zealand reported the highest gross margin percentages.
-6. **Quarterly Gross Margin Percentage (GM%) by Sub_zones**: The ANZ subzone showed dominance in gross margin percentage during the later years, whereas the SE region led in sales and ROA during the initial years.
+
+1.. **Market Performance vs. Sales Targets Comparison**: Certain markets surpassed their sales targets, whereas others did not meet expectations, offering valuable insights for shaping future strategies.
+2. **Yearly Profit and Loss (P&L) Report**: AtliQ achieved a 204% increase in growth between 2019 and 2021, marking significant progress over the three-year span.
+3. **Quarterly Profit and Loss (P&L) Comparison**: Substantial sales growth was achieved in 2021, while profit margins remained stable despite rising costs.
+4. **Market-Specific Profit and Loss (P&L) Report**: AtliQ achieved the highest total net sales in India, whereas the Netherlands, Japan, and New Zealand reported the highest gross margin percentages.
+5. **Quarterly Gross Margin Percentage (GM%) by Sub_zones**: The ANZ subzone showed dominance in gross margin percentage during the later years, whereas the SE region led in sales and ROA during the initial years.
+
+## Technical & Soft Skills:
+1. Proficiency in ETL methodology (Extract, Transform, Load).
+2. Skills to generate a date table using Power Query.
+3. Ability to derive fiscal months and quarters.
+4. Establishing data model relationships with Power Pivot.
+5. Proficiency in incorporating supplementary data into an existing data model.
+6. Utilizing DAX to create calculated columns.
+   
+## Soft Skills:
+ 1. Designing **user-centric reports** with empathy in mind.
+ 2. **Optimization** of report generation through meticulous fine-tuning.
+ 3. Developing a **systematic approach** to devising a report building plan.
    
 Explore the repository to get started, and feel free to contribute or provide feedback!
