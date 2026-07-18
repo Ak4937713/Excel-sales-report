@@ -1,16 +1,16 @@
-🏢 About Atliq Hardware 
+# About Atliq Hardware 
 Atliq Hardware is a technology-driven company that specializes in manufacturing and selling a wide range of hardware products, including personal computers, printers, computer mouse devices, and other peripheral equipment. Their distribution strategy involves partnering with major retail chains such as Croma and Best Buy, as well as leading e-commerce platforms like Flipkart and Amazon, making their products accessible to a broad customer base.
 
 # 📊 Project Overview
-This project is a data analysis conducted using a dataset from Atliq Hardware. The goal is to derive meaningful business insights by analyzing product-level performance, customer trends, and sales distribution across time and regions. 
+This project analyzes Atliq Hardware's sales and financial data to evaluate business performance across customers, products, markets, and fiscal periods. The objective is to uncover trends, measure profitability, and support strategic business decisions through data-driven insights.
 
 # 🎯 Project Objective & Problem Statement 
 Atliq Hardware, despite having a strong market presence and a wide product range, requires data-driven strategies to stay competitive in a dynamic industry. Understanding how each product category performs across regions, sales channels, and time periods is critical for informed decision-making. The objective of this project is to create comparitive reports i.e — the Sales and Finance Analytics Report — that delivers actionable insights to support strategic planning and performance optimization at Atliq Hardware. This project specifically addresses the following business challenges:
-1. Identifying top-performing and underperforming product categories
-2. Analyzing sales trends across different time frames and geographical regions
-3. Understanding the impact of various sales channels on overall performance
-4. Detecting declining markets or segments that need attention
-5. Uncovering patterns in customer behavior to enhance targeting
+1. Identifying top-performing and underperforming product categories.
+2. Analyzing sales trends across different time frames and geographical regions.
+3. Understanding the impact of various sales channels on overall performance.
+4. Detecting declining markets or segments that need attention.
+5. Uncovering patterns in customer behavior to enhance targeting.
    
 By combining in-depth analysis and visual storytelling through Excel Reports, this project aims to provide Atliq Hardware’s decision-makers with a reliable tool for tracking performance and shaping future business strategies.
 
@@ -28,9 +28,13 @@ By combining in-depth analysis and visual storytelling through Excel Reports, th
 ### Insights
 
 1. **Out of top 10 producs**, **AQ Mx NB** recorded highest increase in sales from 2020 to 2021(**5623.52%**).
+   
 2. **Division report** : Overall **PC** division recorded highest growth **(313.70%)** followed by **P&A (221.53%)** and **N & S** (**84.38%**).
+
 3. **New products launched in 2021**:  AQ Clx3, AQ Electron 3 3600 Desktop Processor,AQ Gen Y, AQ GEN Z, AQ HOME Allin1 Gen 2, AQ Lumina Ms, AQ Marquee P3, AQ Marquee P4, AQ Maxima Ms, AQ MB Lito, AQ MB Lito 2, AQ Qwerty, AQ Qwerty Ms, AQ Trigger, AQ Trigger Ms, AQ Wi Power Dx3
+   
 4.  **Top 5 Countries with highest sales**: **India(161 M), USA(87 M) , South Korea (48 M) , Canada(35 M) , United Kingdom(34 M)**.
+
 5.  **Top 5 products and bottom 5 products**:
      - Top 5 products: **AQ Gamers, AQ Gamers Ms, AQ Master wired x1 Ms, AQ Master wireless x1, AQ Master wireless x1 Ms**
      - Bottom 5 products: **AQ Gamer 1, AQ GEN Z, AQ Home Allin1, AQ HOME Allin1 Gen 2, AQ Smash 2**.
@@ -46,10 +50,15 @@ By combining in-depth analysis and visual storytelling through Excel Reports, th
 ### insights
 
 1.. **Market Performance vs. Sales Targets Comparison**: Certain markets surpassed their sales targets, whereas others did not meet expectations, offering valuable insights for shaping future strategies.
+
 2. **Yearly Profit and Loss (P&L) Report**: AtliQ achieved a 204% increase in growth between 2019 and 2021, marking significant progress over the three-year span.
+   
 3. **Quarterly Profit and Loss (P&L) Comparison**: Substantial sales growth was achieved in 2021, while profit margins remained stable despite rising costs.
+   
 4. **Market-Specific Profit and Loss (P&L) Report**: AtliQ achieved the highest total net sales in India, whereas the Netherlands, Japan, and New Zealand reported the highest gross margin percentages.
+   
 5. **Quarterly Gross Margin Percentage (GM%) by Sub_zones**: The ANZ subzone showed dominance in gross margin percentage during the later years, whereas the SE region led in sales and ROA during the initial years.
+   
 
 ## Technical & Soft Skills:
 1. Proficiency in ETL methodology (Extract, Transform, Load).
