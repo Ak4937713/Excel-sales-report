@@ -5,24 +5,25 @@ Atliq Hardware is a technology-driven company that specializes in manufacturing 
 This project is a data analysis conducted using a dataset from Atliq Hardware. The goal is to derive meaningful business insights by analyzing product-level performance, customer trends, and sales distribution across time and regions. 
 
 # 🎯 Project Objective & Problem Statement 
-Atliq Hardware, despite having a strong market presence and a wide product range, requires data-driven strategies to stay competitive in a dynamic industry. Understanding how each product category performs across regions, sales channels, and time periods is critical for informed decision-making. The objective of this project is to build an interactive Business Intelligence dashboard — the Sales and Finance Analytics Report — that delivers actionable insights to support strategic planning and performance optimization at Atliq Hardware. This project specifically addresses the following business challenges:
+Atliq Hardware, despite having a strong market presence and a wide product range, requires data-driven strategies to stay competitive in a dynamic industry. Understanding how each product category performs across regions, sales channels, and time periods is critical for informed decision-making. The objective of this project is to create comparitive reports i.e — the Sales and Finance Analytics Report — that delivers actionable insights to support strategic planning and performance optimization at Atliq Hardware. This project specifically addresses the following business challenges:
 1. Identifying top-performing and underperforming product categories
 2. Analyzing sales trends across different time frames and geographical regions
 3. Understanding the impact of various sales channels on overall performance
 4. Detecting declining markets or segments that need attention
 5. Uncovering patterns in customer behavior to enhance targeting
    
-By combining in-depth analysis and visual storytelling through Power BI, this project aims to provide Atliq Hardware’s decision-makers with a reliable tool for tracking performance and shaping future business strategies.
+By combining in-depth analysis and visual storytelling through Excel Reports, this project aims to provide Atliq Hardware’s decision-makers with a reliable tool for tracking performance and shaping future business strategies.
 
 # Sales Analytics: 
 ### Objectives
 
-1. Top 10 Products with Sales Increase: Identify which products had the biggest increase in sales from 2020 to 2021.
-2. Division Sales Report: Create a report showing total revenue in 2020 and 2021 and how much sales grew.
-3. Top and Bottom 5 Sold Products: Identify the top 5 and bottom 5 products sold by quantity.
-4. New Products in 2021: List new products Atliq started selling in 2021.
-5. Top 5 Sales Countries in 2021: Identify the five countries with the highest sales in 2021.
-
+1. Create a report identifying the top 10 products with the highest sales growth from 2020 to 2021.
+2. Create a division-wise sales report comparing total revenue and year-over-year growth for 2020 and 2021.
+3. Create a report identifying the top 5 and bottom 5 products based on total quantity sold.
+4. Create a report listing the new products introduced by Atliq Hardware in 2021.
+5. Create a report identifying the top 5 countries by total sales revenue in 2021.
+   
+   
 ### Insights
 
 1. **Out of top 10 producs**, **AQ Mx NB** recorded highest increase in sales from 2020 to 2021(**5623.52%**).
